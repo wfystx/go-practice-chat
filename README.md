@@ -14,7 +14,7 @@ go run client.go
 ```
 
 ### Result
-![Image](https://i.ibb.co/NYbxcZM/ezgif-5-1c174858cd02.gif)
+![Image](https://i.ibb.co/s9TF0Jc/go-chat.gif)
 
 ### TODO
 Still having a problem that there is an EOF error when I quit the client.
